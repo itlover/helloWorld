@@ -1,12 +1,8 @@
+/** this is a test for study git gui **/
 #include "stm32f10x.h"
 #include "uart1.h"
 #include <ucos_ii.h>
 #include "osEventList.h" 
-
-
-
-
-
 
 /*
 D2-PA0 高电平点亮
